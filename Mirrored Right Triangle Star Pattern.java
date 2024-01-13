@@ -17,3 +17,11 @@ class LearnYard {
 
     }
 }
+
+Input:-5
+Output:-
+    *
+   **
+  ***
+ ****
+*****
